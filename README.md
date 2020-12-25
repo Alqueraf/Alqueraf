@@ -10,6 +10,8 @@ My name is Alex, nice to see you here!
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OAuth2 in Android — Authorization Code Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
+- [Migrating Retrofit to Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4?source=rss-18ecf9ef4d5b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay in touch
