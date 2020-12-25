@@ -1,0 +1,22 @@
+{
+  "name": "alqueraf",
+  "version": "1.0.0",
+  "description": "My name is Alex, nice to see you here!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alqueraf/Alqueraf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alqueraf/Alqueraf/issues"
+  },
+  "homepage": "https://github.com/Alqueraf/Alqueraf#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
