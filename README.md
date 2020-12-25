@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name is Alex, nice to see you here!
 
@@ -7,6 +7,10 @@ My name is Alex, nice to see you here!
 - 👨‍🏫 Teach App Development
 - ✈️ Travel whenever I can
 - 💚 And love Trekking in the mountains
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Stay in touch
 <p>
