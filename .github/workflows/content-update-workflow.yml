@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest content workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs Every: (Hour: 0 * * * *). (Day: 0 0 * * *))
@@ -13,3 +13,11 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@alqueraf"
           max_post_count: 5
+  update-readme-with-instagram:
+    name: Update this repo's README with latest instagram feed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: alqueraf/instagram-feed-action@master
+        with:
+          account: "alqueraf"
