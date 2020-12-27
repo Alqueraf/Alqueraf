@@ -28,9 +28,9 @@ My name is Alex, nice to see you here! -->
 | App | Playstore | Appstore |
 | :-: | :-: | :-: |
 | Global Citizen | <a href="https://play.google.com/store/apps/details?id=lr.globalcitizen.com"><img height = "20px" src="images/playstore.png"/></a> | <a href="https://apps.apple.com/us/app/global-citizen-take-action/id990655529"><img height = "20px" src="images/appstore.png"/></a> |
-| Droplette |  | <a href="https://apps.apple.com/py/app/droplette/id1535102177"><img height = "20px" src="images/appstore.png"/></a> |
-| Avenew Activist | <a href="https://play.google.com/store/apps/details?id=org.avenew.activist"><img height = "20px" src="images/playstore.png"/></a> | <a href="https://apps.apple.com/us/app/avenew-activist/id1529797327"><img height = "20px" src="images/appstore.png"/></a> |
 | Spireworks |  | <a href="https://apps.apple.com/us/app/spireworks/id1372884614"><img height = "20px" src="images/appstore.png"/></a> |
+| Avenew Activist | <a href="https://play.google.com/store/apps/details?id=org.avenew.activist"><img height = "20px" src="images/playstore.png"/></a> | <a href="https://apps.apple.com/us/app/avenew-activist/id1529797327"><img height = "20px" src="images/appstore.png"/></a> |
+| Droplette |  | <a href="https://apps.apple.com/py/app/droplette/id1535102177"><img height = "20px" src="images/appstore.png"/></a> |
 | Entwickler Tutorials | <a href="https://play.google.com/store/apps/details?id=de.entwickler.tutorials.app"><img height = "20px" src="images/playstore.png"/></a> |  |
 
 ### 📕 Recent Blog Posts
@@ -75,3 +75,8 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
         <a href="https://www.linkedin.com/in/alexqueudot" target="_blank"><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+With ❤️ from Barcelona.
+
+*This site is auto-generated with new content every day*.
