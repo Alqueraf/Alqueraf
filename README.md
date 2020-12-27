@@ -5,11 +5,11 @@
 My name is Alex, nice to see you here! -->
 
 ### 🛠 I do
-- 📱 Android & iOS Apps
+- 📱 **Android** & **iOS** Apps
 - 👨‍💻 With a strong focus on Quality, Performance & UX
-- 👨‍🏫 Teach App Development
-- ✈️ Travel whenever I can
-- 💚 And love Trekking in the mountains
+- 👨‍🏫 **Teach** App Development
+- ✈️ **Travel** whenever I can
+- 💚 And love **Trekking** in the mountains
 
 ### ⭐️ Having achieved
 
