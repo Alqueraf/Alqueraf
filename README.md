@@ -12,10 +12,9 @@ My name is Alex, nice to see you here! -->
 - 💚 And love Trekking in the mountains
 
 ### ⭐️ Having achieved
-- **35** published Apps
-- **1M** users reached
-- **15** courses taught
-- **26** countries visited
+| 35 | 1M | 15 | 26 |
+| :-: | :-: | :-: | :-: |
+| Published Apps | Users Reached | Courses Taught | Countries Visited |
 
 ### 💻 Tech Stack
 - 🤖 Android [Kotlin, Java]
