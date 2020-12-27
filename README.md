@@ -12,7 +12,7 @@ My name is Alex, nice to see you here! -->
 - 💚 And love Trekking in the mountains
 
 ### ⭐️ Having achieved
-- **45** published Apps
+- **35** published Apps
 - **1M** users reached
 - **15** courses taught
 - **26** countries visited
@@ -66,7 +66,7 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
         <a href="https://instagram.com/alqueraf">View More</a>
 </p>
 
-#### 💬 Stay in touch
+### 💬 Stay in touch
 <p>
         <a href="https://twitter.com/alqueraf" target="_blank"><img alt="Twitter"
                         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
