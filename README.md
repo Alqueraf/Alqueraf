@@ -62,6 +62,10 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [The Middle Finger Project: Trash Your Imposter Syndrome and Live the Unf*ckwithable Life You Deserve](https://www.goodreads.com/review/show/3546824765?utm_medium=api&utm_source=rss)
+- [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/review/show/3324987322?utm_medium=api&utm_source=rss)
+- [Amusing Ourselves to Death: Public Discourse in the Age of Show Business](https://www.goodreads.com/review/show/2968197244?utm_medium=api&utm_source=rss)
+- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/2788723762?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 
 ### 💬 Stay in touch
