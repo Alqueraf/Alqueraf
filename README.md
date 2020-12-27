@@ -60,6 +60,10 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
         <a href="https://instagram.com/alqueraf">View More</a>
 </p>
 
+### 📖 My Recent Reads
+<!-- GOODREADS:START -->
+<!-- GOODREADS:END -->
+
 ### 💬 Stay in touch
 <p>
         <a href="https://twitter.com/alqueraf" target="_blank"><img alt="Twitter"

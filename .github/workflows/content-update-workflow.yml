@@ -21,3 +21,14 @@ jobs:
       - uses: alqueraf/instagram-feed-action@master
         with:
           account: "alqueraf"
+  update-readme-with-goodreads:
+    name: Update this repo's README with latest activity from goodreads
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GOODREADS"
+          commit_message: "Updated readme with the latest goodreads data"
+          feed_list: "https://feeds.feedburner.com/AlexsBookshelfRead"
+          max_post_count: 4
