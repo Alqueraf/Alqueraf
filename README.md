@@ -4,6 +4,7 @@
 
 My name is Alex, nice to see you here! -->
 
+### I do
 - 📱 I'm a Mobile Engineer & Educator 🎓
 - 👨‍💻 I build beautiful experiences for Android & iOS
 - 👨‍🏫 Teach App Development
