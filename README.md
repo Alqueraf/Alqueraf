@@ -12,6 +12,7 @@ My name is Alex, nice to see you here! -->
 - 💚 And love Trekking in the mountains
 
 ### ⭐️ Having achieved
+
 | 35 | 1M | 15 | 26 |
 | :-: | :-: | :-: | :-: |
 | Published Apps | Users Reached | Courses Taught | Countries Visited |
