@@ -1,9 +1,5 @@
 ![banner](images/banner.png)
 
-<!-- ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-My name is Alex, nice to see you here! -->
-
 ### 🛠 I do
 - 📱 **Android** & **iOS** Apps
 - 👨‍💻 With a strong focus on Quality, Performance & UX
@@ -74,6 +70,8 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
                         src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/alexqueudot" target="_blank"><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Gmail"
+                        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
