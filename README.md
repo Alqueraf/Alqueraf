@@ -67,6 +67,16 @@ Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4
 - [Amusing Ourselves to Death: Public Discourse in the Age of Show Business](https://www.goodreads.com/review/show/2968197244?utm_medium=api&utm_source=rss)
 - [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/2788723762?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
+<p style="margin-top:-5px">
+        <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
+</p>
+
+### 🐦 What I'm tweeting about
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+<p style="margin-top:-5px">
+        <a href="https://twitter.com/alqueraf">View More</a>
+</p>
 
 ### 💬 Stay in touch
 <p>

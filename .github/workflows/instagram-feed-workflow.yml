@@ -1,0 +1,15 @@
+name: Latest instagram workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '10 0 * * *' # Runs Every: (Hour: 0 * * * *). (Day: 0 0 * * *))
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-instagram:
+    name: Update this repo's README with latest instagram feed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: alqueraf/instagram-feed-action@master
+        with:
+          account: "alqueraf"
+          max_post_count: 6
