@@ -23,19 +23,17 @@ My name is Alex, nice to see you here! -->
 - 📱 Multiplatform [Flutter]
 - ⚙️ Automation [Github Actions CI + Fastlane CD]
 
-### 📱 Latest Apps
-- Global Citizen
-<a href="https://play.google.com/store/apps/details?id=lr.globalcitizen.com"><img height = "15px" src="images/playstore.png"/></a>
-<a href="https://apps.apple.com/us/app/global-citizen-take-action/id990655529"><img height = "15px" src="images/appstore.png"/></a> 
-- Droplette
-<a href="https://apps.apple.com/py/app/droplette/id1535102177"><img height = "15px" src="images/appstore.png"/></a>
-- Avenew Activist
-<a href="https://play.google.com/store/apps/details?id=org.avenew.activist"><img height = "15px" src="images/playstore.png"/></a>
-<a href="https://apps.apple.com/us/app/avenew-activist/id1529797327"><img height = "15px" src="images/appstore.png"/></a> 
-- Spireworks
-<a href="https://apps.apple.com/us/app/spireworks/id1372884614"><img height = "15px" src="images/appstore.png"/></a>
+### 📱 Latest Projects
 
-### 📕 Latest Blog Posts
+| App | Playstore | Appstore |
+| :-: | :-: | :-: |
+| Global Citizen | <a href="https://play.google.com/store/apps/details?id=lr.globalcitizen.com"><img height = "15px" src="images/playstore.png"/></a> | <a href="https://apps.apple.com/us/app/global-citizen-take-action/id990655529"><img height = "15px" src="images/appstore.png"/></a> |
+| Droplette |  | <a href="https://apps.apple.com/py/app/droplette/id1535102177"><img height = "15px" src="images/appstore.png"/></a> |
+| Avenew Activist | <a href="https://play.google.com/store/apps/details?id=org.avenew.activist"><img height = "15px" src="images/playstore.png"/></a> | <a href="https://apps.apple.com/us/app/avenew-activist/id1529797327"><img height = "15px" src="images/appstore.png"/></a> |
+| Spireworks |  | <a href="https://apps.apple.com/us/app/spireworks/id1372884614"><img height = "15px" src="images/appstore.png"/></a> |
+| Entwickler Tutorials | <a href="https://play.google.com/store/apps/details?id=de.entwickler.tutorials.app"><img height = "15px" src="images/playstore.png"/></a> |  |
+
+### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [OAuth2 in Android — Authorization Code
 Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
