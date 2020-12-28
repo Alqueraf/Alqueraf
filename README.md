@@ -31,10 +31,8 @@
 
 ### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [OAuth2 in Android — Authorization Code
-Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
-- [Migrating Retrofit to
-Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4?source=rss-18ecf9ef4d5b------2)
+- [OAuth2 in Android — Authorization Code Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
+- [Migrating Retrofit to Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4?source=rss-18ecf9ef4d5b------2)
 <!-- BLOG-POST-LIST:END -->
 <p style="margin-top:-5px">
         <a href="https://medium.com/@alqueraf">View More</a>
