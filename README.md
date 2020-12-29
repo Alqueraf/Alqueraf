@@ -60,11 +60,12 @@
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [Alqueraf: RT @BibliotequesBCN: 🎊Arriba una nova edició del concurs d'emprenedoria i tecnologia #TechnovationGirls! 
+📲Aprendràs a crear una app, progr…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdd6ff2a66f7bde15099464d061e4c11178)
+- [Alqueraf: RT @StanTwinB: Alright folks, gather round and let me tell you the story of (almost) the biggest engineering disaster I’ve ever had the mis…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdd6ff2a0687ade110f9667d46be0c7117a)
 - [@BibliotequesBCN: 🎊Arriba una nova edició del concurs d'emprenedoria i tecnologia #TechnovationGirls! 📲Aprendràs a crear una app, programar, parlar en públic i molt més!👧10 a 18 anys✍️Inscriu-te a la sessió informativa i coneix tots els detalls📆14/12 a les 18.30h👉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d36b0edcbed931f949362d4c03c8b132a9c8f2cb6e1757cdc17099a68dc69e8cb1272108233c16481c6)
 - [@StanTwinB: Alright folks, gather round and let me tell you the story of (almost) the biggest engineering disaster I’ve ever had the misfortune of being involved in. It’s a tale of politics, architecture and the sunk cost fallacy [I’m drinking an Aberlour Cask Strength Single Malt Scotch]](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3eff6f58e14a7c974d3e30bb04f76d9dd6bf5aa637ddb100d9466dd6de5c51a7f11)
-- [@simsek_dev:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36bff2c7e9b81e809028d4f61eb1492ac7df6bf1a56379dd120d9a69d660e7c11a73118b)
-- [@oliverjumpertz: Clean code is important, clean code helps others understand your code, but clean code is also pretty subjective!I want to give you my perspective on it, drawing from years of experience leading teams of developers as a tech lead and working in teams.🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1033bbf7c7f08d0f889662d5f605ea4f2d899a2db0bd6b7edd13099b68d561e0c41679148933c56082)
-- [@Alqueraf: Need a Model class to hold data in Kotlin? Use data class!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdc6efba3637fdd1d089663d561e1c2177b)
+- [Alqueraf: RT @simsek_dev: @rafrasenberg](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdc6ffaa66975d81c079762dc60e3c6127a)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
