@@ -60,12 +60,12 @@
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [Alqueraf: RT @spireworks: 📣Major Announcement! Our 2020 #ChangeAtADistance giving milestone has reached $75K and is still going strong.  Many thanks…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbda6cf7a3627fd8120e9166dc6fe2cb147b)
 - [Alqueraf: RT @BibliotequesBCN: 🎊Arriba una nova edició del concurs d'emprenedoria i tecnologia #TechnovationGirls! 
 📲Aprendràs a crear una app, progr…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdd6ff2a66f7bde15099464d061e4c11178)
 - [Alqueraf: RT @StanTwinB: Alright folks, gather round and let me tell you the story of (almost) the biggest engineering disaster I’ve ever had the mis…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdd6ff2a0687ade110f9667d46be0c7117a)
 - [@BibliotequesBCN: 🎊Arriba una nova edició del concurs d'emprenedoria i tecnologia #TechnovationGirls! 📲Aprendràs a crear una app, programar, parlar en públic i molt més!👧10 a 18 anys✍️Inscriu-te a la sessió informativa i coneix tots els detalls📆14/12 a les 18.30h👉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d36b0edcbed931f949362d4c03c8b132a9c8f2cb6e1757cdc17099a68dc69e8cb1272108233c16481c6)
 - [@StanTwinB: Alright folks, gather round and let me tell you the story of (almost) the biggest engineering disaster I’ve ever had the misfortune of being involved in. It’s a tale of politics, architecture and the sunk cost fallacy [I’m drinking an Aberlour Cask Strength Single Malt Scotch]](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3eff6f58e14a7c974d3e30bb04f76d9dd6bf5aa637ddb100d9466dd6de5c51a7f11)
-- [Alqueraf: RT @simsek_dev: @rafrasenberg](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdc6ffaa66975d81c079762dc60e3c6127a)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
