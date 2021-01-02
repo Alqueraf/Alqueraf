@@ -1,4 +1,4 @@
-![banner](images/banner.jpg)
+![banner](images/banner-cropped.jpg)
 
 ### 🛠 I do
 - 📱 **Android** & **iOS** Apps
