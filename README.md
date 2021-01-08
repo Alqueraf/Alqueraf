@@ -60,12 +60,11 @@
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [Alqueraf: RT @levinriegner: L+R has been listed on the Clutch 1000, the 1000 highest-performing service providers across the globe. The award winners…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbda6efaa66c7cde11069368dd60e3c6117c)
 - [@levinriegner: L+R has been listed on the Clutch 1000, the 1000 highest-performing service providers across the globe. The award winners represent the top 1% of the 100,000+ companies on Clutch's online directory. 3rd year in a row!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133aa4e8ccf08e1f828862d5ad0cb15d2d9d9d77f2a16e7bd7170e9664d16de3c1127215823dcd)
 - [@Alqueraf: Add a list of your latest Instagram pictures to your Github's README page with an automated content refresh!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbda6df7a46e7adb1d069262d16be7c5117c)
 - [Alqueraf: RT @spireworks: 📣Major Announcement! Our 2020 #ChangeAtADistance giving milestone has reached $75K and is still going strong.  Many thanks…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbda6cf7a3627fd8120e9166dc6fe2cb147b)
 - [@spireworks: 📣Major Announcement! Our 2020 #ChangeAtADistance giving milestone has reached $75K and is still going strong. Many thanks to @thedurstorg and @OneWTC for enabling #Spireworks to highlight the regional relief efforts of @GlobalGiving Visit](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2fbbf3c7f588088e9528d4f61eb1492ac7df6bf7a1637ad61c0c9667d76fe6c1107c178d)
-- [Alqueraf: RT @BibliotequesBCN: 🎊Arriba una nova edició del concurs d'emprenedoria i tecnologia #TechnovationGirls! 
-📲Aprendràs a crear una app, progr…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbdd6ff2a66f7bde15099464d061e4c11178)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
