@@ -48,11 +48,11 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/3630502845?utm_medium=api&utm_source=rss)
+- [El bosc](https://www.goodreads.com/review/show/3897897762?utm_medium=api&utm_source=rss)
 - [The Middle Finger Project: Trash Your Imposter Syndrome and Live the Unf*ckwithable Life You Deserve](https://www.goodreads.com/review/show/3546824765?utm_medium=api&utm_source=rss)
 - [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/review/show/3324987322?utm_medium=api&utm_source=rss)
 - [Amusing Ourselves to Death: Public Discourse in the Age of Show Business](https://www.goodreads.com/review/show/2968197244?utm_medium=api&utm_source=rss)
-- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/2788723762?utm_medium=api&utm_source=rss)
-- [Fahrenheit 451](https://www.goodreads.com/review/show/3194911091?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
