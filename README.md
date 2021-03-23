@@ -31,6 +31,7 @@
 
 ### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Kotlin Coroutines in Android](https://medium.com/l-r-engineering/launching-kotlin-coroutines-in-android-coroutine-scope-context-800d280ebd80?source=rss-18ecf9ef4d5b------2)
 - [OAuth2 in Android — Authorization Code Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
 - [Migrating Retrofit to Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4?source=rss-18ecf9ef4d5b------2)
 <!-- BLOG-POST-LIST:END -->
