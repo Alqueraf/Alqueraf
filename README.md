@@ -88,4 +88,6 @@
 ---
 With ❤️ from Barcelona.
 
-*This site is auto-generated with new content every day*.
+*This site is auto-generated when new content is available*.
+
+<a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code!</a>
