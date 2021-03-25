@@ -59,6 +59,11 @@
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
 </p>
 
+### 🎧 Now Playing
+![Spotify Now Playing](https://spotify-now-playing-alqueraf.vercel.app/api/spotify)
+
+<a href="https://open.spotify.com/user/alqueraf">View More</a>
+   
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
 - [@Alqueraf: 🙏 @SpeakerPelosi @SenSchumer 🙏🏾 thanks for supporting critical funding for @GlobalFund and @CEPIvaccines in the final #covid relief bill. These funds will provide live-saving support in low-income countries for tests, treatments and vaccines to #EndCOVIDEverywhere!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd969f4a5697bdf150d9661d769e2c1137d)
@@ -90,4 +95,4 @@ With ❤️ from Barcelona.
 
 *This site is auto-generated when new content is available*.
 
-<a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code!</a>
+<a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code</a>
