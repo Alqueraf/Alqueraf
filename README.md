@@ -62,7 +62,9 @@
 ### 🎧 Now Playing
 ![Spotify Now Playing](https://spotify-now-playing-alqueraf.vercel.app/api/spotify)
 
-<a href="https://open.spotify.com/user/alqueraf">View More</a>
+<p style="margin-top:-5px">
+        <a href="https://open.spotify.com/user/alqueraf">View More</a>
+</p>
    
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
@@ -86,7 +88,9 @@
                         src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/alexqueudot" target="_blank"><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="https://github.com/alqueraf" target="_blank"><img alt="GitHub"
+                        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Email"
                         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
