@@ -68,11 +68,11 @@
    
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [@BibliotequesBCN: ✨Vols aprendre a programar tires de LED per recrear la carrera de podracers de Star Wars? Led Race al #ClubMaker de la @bibcanfabra! 👧👦+14 anys📲Inscripcions: envia un 📧 a @b.barcelona.ii@diba.cat 📆Tots els dimarts a les 18 h](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d36b0edcbed931f949362d4c03c8b132a9c8f2cb6e1757cdc13069760d66fe8c7127f168d3bc26281c7)
 - [Alqueraf: New Article explaining the best practices on Launching Kotlin Coroutines in Android with @levinriegner](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd96cf0a66e7ede1c0b9360d16ee7cb167e)
 - [@Alqueraf: 🙏  @SpeakerPelosi @SenSchumer 🙏🏾  thanks for supporting critical funding for @GlobalFund and @CEPIvaccines in the final #covid relief bill. These funds will provide live-saving support in low-income countries for tests, treatments and vaccines to #EndCOVIDEverywhere!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd969f4a5697bdf150d9661d769e2c1137d)
 - [Alqueraf: RT @levinriegner: Storytelling enters](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd869fba16b7dd917079460d16de0c51379)
 - [@levinriegner: Storytelling enters](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133aa4e8ccf08e1f828862d5ad0cb15d2d9d9d77f2a16c7cd8150c9366d369e4c1177f1d8338c2)
-- [Alqueraf: RT @levinriegner: L+R has been listed on the Clutch 1000, the 1000 highest-performing service providers across the globe. The award winners…](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbda6efaa66c7cde11069368dd60e3c6117c)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
