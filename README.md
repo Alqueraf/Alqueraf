@@ -21,6 +21,31 @@
 
 ### 📱 Latest Projects
 <!-- APPSTORES-FEED:START -->
+<div class="grid-container">
+    <div class="grid-item">
+        <img class="grid-item-image" src="https://play-lh.googleusercontent.com/-VAXuvEOz_5852zyfnIRlr-T6sgt1vHpvxq-UdJiOOqyZ2jRwKyNT_JclyI1-1Rh" />
+        <div class="grid-item-info">
+            <span class="grid-item-title">Global Citizen</span>
+            <br>
+            <span>⭐️ 4</span>
+            <br>
+            <span class="grid-item-caption">100,000+installs</span>
+        </div>
+        <a class="grid-item-link" href="{{marginRight}}"><img src="https://play.google.com/store/apps/details?id=lr.globalcitizen.com&hl=en&gl=us"/></a>
+    </div>
+    
+    <div class="grid-item">
+        <img class="grid-item-image" src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/ba/ec/d6baec3b-7493-8c37-59d4-fcd93a78ec3c/source/512x512bb.jpg" />
+        <div class="grid-item-info">
+            <span class="grid-item-title">Global Citizen: Take Action</span>
+            <br>
+            <span>⭐️ 4.5</span>
+            <br>
+            <span class="grid-item-caption">4reviews</span>
+        </div>
+        <a class="grid-item-link" href="{{marginRight}}"><img src="https://apps.apple.com/us/app/global-citizen-take-action/id990655529?uo=4"/></a>
+    </div>
+    </div>
 <!-- APPSTORES-FEED:END -->
 
 ### 📕 Recent Blog Posts
