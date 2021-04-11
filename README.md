@@ -23,8 +23,13 @@
 <!-- APPSTORES-FEED:START -->
 <div style="display:grid; 
             grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-            max-width: 660px;"><img src="./apps/lr.globalcitizen.com.svg"/>
+            max-width: 660px;">
+<img src="./apps/lr.globalcitizen.com.svg"/>
+<img src="./apps/org.avenew.activist.svg"/>
+<img src="./apps/de.entwickler.tutorials.app.svg"/>
+<img src="./apps/1372884614.svg"/>
 <img src="./apps/990655529.svg"/>
+<img src="./apps/1535102177.svg"/>
 </div>
 <!-- APPSTORES-FEED:END -->
 
