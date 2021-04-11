@@ -11,5 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: alqueraf/appstores-feed-action@master
         with:
-          appstore_ids: "990655529"
-          playstore_ids: "lr.globalcitizen.com"
+          app_ids: "lr.globalcitizen.com, 1372884614, org.avenew.activist, 990655529, de.entwickler.tutorials.app, 1535102177"
