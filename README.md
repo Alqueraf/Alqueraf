@@ -23,7 +23,7 @@
 <div style="display:grid;    
 grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 630px;
-    grid-gap: 2rem;">
+    grid-gap: 15px;">
 <img src="apps/990655529.svg"/>
 <img src="apps/lr.globalcitizen.com.svg"/>
 <img src="apps/lr.globalcitizen.com.svg"/>
