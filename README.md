@@ -20,7 +20,14 @@
 - ⚙️ Automation [Github Actions CI + Fastlane CD]
 
 ### 📱 Latest Projects
+<div style="display:grid;    
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 650px;
+    grid-gap: 2rem;">
 <img src="images/appstores.svg"/>
+<img src="images/appstores.svg"/>
+<img src="images/appstores.svg"/>
+</div>
 
 ### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
