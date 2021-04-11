@@ -24,12 +24,12 @@
 <div style="display:grid; 
             grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
             max-width: 660px;">
-<a href="undefined"><img src="undefined"/></a>
-<a href="undefined"><img src="undefined"/></a>
-<a href="undefined"><img src="undefined"/></a>
-<a href="undefined"><img src="undefined"/></a>
-<a href="undefined"><img src="undefined"/></a>
-<a href="undefined"><img src="undefined"/></a>
+<a href="https://play.google.com/store/apps/details?id=lr.globalcitizen.com&hl=en&gl=us"><img src="./apps/lr.globalcitizen.com.svg"/></a>
+<a href="https://apps.apple.com/us/app/spireworks/id1372884614?uo=4"><img src="./apps/1372884614.svg"/></a>
+<a href="https://play.google.com/store/apps/details?id=org.avenew.activist&hl=en&gl=us"><img src="./apps/org.avenew.activist.svg"/></a>
+<a href="https://apps.apple.com/us/app/global-citizen-take-action/id990655529?uo=4"><img src="./apps/990655529.svg"/></a>
+<a href="https://play.google.com/store/apps/details?id=de.entwickler.tutorials.app&hl=en&gl=us"><img src="./apps/de.entwickler.tutorials.app.svg"/></a>
+<a href="https://apps.apple.com/us/app/droplette/id1535102177?uo=4"><img src="./apps/1535102177.svg"/></a>
 </div>
 <!-- APPSTORES-FEED:END -->
 
