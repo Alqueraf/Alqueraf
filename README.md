@@ -14,7 +14,7 @@
 | Published Apps | Users Reached | Courses Taught | Countries Visited |
 
 ### 💻 Tech Stack
-- 🤖 Android [Kotlin, Java]
+- 🤖 Android [Kotlin]
 - 🍎 iOS [Swift]
 - 📱 Multiplatform [Flutter]
 - ⚙️ Automation [Github Actions CI + Fastlane CD]
