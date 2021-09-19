@@ -2,14 +2,14 @@
 
 ### 🛠 I do
 - 📱 **Android** & **iOS** Apps
-- 👨‍💻 With a strong focus on Quality, Performance & UX
+- 👨‍💻 With a strong focus on Quality, Scalability, Performance & UX
 - 👨‍🏫 **Teach** App Development
 - ✈️ **Travel** whenever I can
 - 💚 And love **Trekking** in the mountains
 
 ### ⭐️ Having achieved
 
-| 35 | 1M | 15 | 26 |
+| 40 | 1M | 15 | 28 |
 | :-: | :-: | :-: | :-: |
 | Published Apps | Users Reached | Courses Taught | Countries Visited |
 
@@ -101,6 +101,6 @@
 ---
 With ❤️ from Barcelona.
 
-*This site is auto-generated when new content is available*.
+*This site is auto-generated with GitHub Actions when new content is available*.
 
 <a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code</a>

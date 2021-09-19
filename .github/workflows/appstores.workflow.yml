@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: alqueraf/appstores-feed-action@master
         with:
-          app_ids: "lr.globalcitizen.com, 1372884614, org.avenew.activist, 990655529, de.entwickler.tutorials.app, 1535102177"
+          app_ids: "lr.globalcitizen.com, 1372884614, org.avenew.activist, 1571172496, de.entwickler.tutorials.app, 1535102177"
