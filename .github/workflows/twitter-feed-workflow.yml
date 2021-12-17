@@ -15,5 +15,5 @@ jobs:
           commit_message: "Updated readme with the latest tweets"
           committer_username: twitter-tweets-bot
           committer_email: twitter-tweets-bot@example.com
-          feed_list: "https://rss.app/feeds/NQkhC6rUATBD9FYA.xml"
+          feed_list: "https://rss.app/feeds/QzWxE84qlPYSRyat.xml"
           max_post_count: 6
