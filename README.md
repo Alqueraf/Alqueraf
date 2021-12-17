@@ -72,11 +72,11 @@
    
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133aa4e8ccf08e1f828862d5ad0cb15d2d9d9d77f2a66c75d811089469d469e8c0127e1d823bc2)
+- [@avalancheavax: See you in Barcelona!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e29b3edc3ec8412808771c6fa50b648389c9b2beca36e7bdf12079763dd6de9c0177f138d3dc462)
+- [@bibcanfabra: Els #Geeks del #ClubMaker escalfen motors per aquest nou any: tempesta d&#39;idees 🌩️per a la nova temporada🤯Tenim talent de sobra! 🤪I com cada any, ens sorprendran amb els seus ginys! 🧩Anirem informant!🧐 Comencem!💥 #AmericanSpaceBCN](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d36b0e2c3ec811b87946688f10ba4482c9bc169f7a6697cd812069b61d06fe0c7177e178838)
+- [@marcvidal: Esta escena distópica y deprimente es auténtica. Uno de los robots de Postmates by Uber rodeando a un vagabundo.Una metáfora de la sociedad futura si no se hace bien. Mientras un robot hace el trabajo por el que antes se les pagaba a los humanos, un vagabundo mira impotente.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123ea0e2d4eb831b89c974d3e30bb04f76d9dd61f4a06b7edd160a9764dd6de6cb127c16)
 - [@Chianetwork_es: Ya tenemos precio en Coinmarketcap:  #chianetwork #chiacoin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37bbe0cce7930d8a946cf8e70cea4f2d899a2db0bd6b7ed71d0d9462dd60e0c61b7f1d823bcd6685)
-- [@BibliotequesBCN: ✨Vols aprendre a programar tires de LED per recrear la carrera de podracers de Star Wars? Led Race al #ClubMaker de la @bibcanfabra! 👧👦+14 anys📲Inscripcions: envia un 📧 a @b.barcelona.ii@diba.cat 📆Tots els dimarts a les 18 h](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d36b0edcbed931f949362d4c03c8b132a9c8f2cb6e1757cdc13069760d66fe8c7127f168d3bc26281c7)
-- [Alqueraf: New Article explaining the best practices on Launching Kotlin Coroutines in Android with @levinriegner](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd96cf0a66e7ede1c0b9360d16ee7cb167e)
-- [@Alqueraf: 🙏  @SpeakerPelosi @SenSchumer 🙏🏾  thanks for supporting critical funding for @GlobalFund and @CEPIvaccines in the final #covid relief bill. These funds will provide live-saving support in low-income countries for tests, treatments and vaccines to #EndCOVIDEverywhere!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd969f4a5697bdf150d9661d769e2c1137d)
-- [Alqueraf: RT @levinriegner: Storytelling enters a new dimension](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e33a3f4c7f0861cca9573c6f60ab61368dbd869fba16b7dd917079460d16de0c51379)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
