@@ -72,11 +72,11 @@
    
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
+- [@avalancheavax: Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e29b3edc3ec8412808771c6fa50b648389c9b2beca36e7ad71c089668d36be8c7117f16833fcd60)
 - [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133aa4e8ccf08e1f828862d5ad0cb15d2d9d9d77f2a66c75d811089469d469e8c0127e1d823bc2)
 - [@avalancheavax: See you in Barcelona!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e29b3edc3ec8412808771c6fa50b648389c9b2beca36e7bdf12079763dd6de9c0177f138d3dc462)
 - [@bibcanfabra: Els #Geeks del #ClubMaker escalfen motors per aquest nou any: tempesta d&#39;idees 🌩️per a la nova temporada🤯Tenim talent de sobra! 🤪I com cada any, ens sorprendran amb els seus ginys! 🧩Anirem informant!🧐 Comencem!💥 #AmericanSpaceBCN](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d36b0e2c3ec811b87946688f10ba4482c9bc169f7a6697cd812069b61d06fe0c7177e178838)
 - [@marcvidal: Esta escena distópica y deprimente es auténtica. Uno de los robots de Postmates by Uber rodeando a un vagabundo.Una metáfora de la sociedad futura si no se hace bien. Mientras un robot hace el trabajo por el que antes se les pagaba a los humanos, un vagabundo mira impotente.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123ea0e2d4eb831b89c974d3e30bb04f76d9dd61f4a06b7edd160a9764dd6de6cb127c16)
-- [@Chianetwork_es: Ya tenemos precio en Coinmarketcap:  #chianetwork #chiacoin](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37bbe0cce7930d8a946cf8e70cea4f2d899a2db0bd6b7ed71d0d9462dd60e0c61b7f1d823bcd6685)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
