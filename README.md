@@ -53,11 +53,11 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [A Man Called Ove](https://www.goodreads.com/review/show/4615052324?utm_medium=api&utm_source=rss)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4615052073?utm_medium=api&utm_source=rss)
+- [Pallassos i monstres](https://www.goodreads.com/review/show/4242854058?utm_medium=api&utm_source=rss)
 - [Anxious People](https://www.goodreads.com/review/show/4314845309?utm_medium=api&utm_source=rss)
 - [El enemigo conoce el sistema](https://www.goodreads.com/review/show/4018563201?utm_medium=api&utm_source=rss)
-- [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/3630502845?utm_medium=api&utm_source=rss)
-- [El bosc](https://www.goodreads.com/review/show/3897897762?utm_medium=api&utm_source=rss)
-- [The Middle Finger Project: Trash Your Imposter Syndrome and Live the Unf*ckwithable Life You Deserve](https://www.goodreads.com/review/show/3546824765?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
