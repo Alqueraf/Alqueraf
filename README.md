@@ -54,11 +54,11 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [The Old Man and the Sea](https://www.goodreads.com/review/show/5246905306?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/5039017449?utm_medium=api&utm_source=rss)
 - [Homo Deus: A History of Tomorrow](https://www.goodreads.com/review/show/4922599841?utm_medium=api&utm_source=rss)
 - [Carl Jung: Wounded Healer of the Soul: An Illustrated Biography](https://www.goodreads.com/review/show/4704557061?utm_medium=api&utm_source=rss)
 - [Set My Heart to Five](https://www.goodreads.com/review/show/4676966593?utm_medium=api&utm_source=rss)
-- [A Man Called Ove](https://www.goodreads.com/review/show/4615052324?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
