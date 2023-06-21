@@ -54,11 +54,11 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5633230466?utm_medium=api&utm_source=rss)
 - [Sea of Tranquility](https://www.goodreads.com/review/show/5488114135?utm_medium=api&utm_source=rss)
 - [Dark Matter](https://www.goodreads.com/review/show/5356481756?utm_medium=api&utm_source=rss)
 - [The Old Man and the Sea](https://www.goodreads.com/review/show/5246905306?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/5039017449?utm_medium=api&utm_source=rss)
-- [Homo Deus: A History of Tomorrow](https://www.goodreads.com/review/show/4922599841?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
