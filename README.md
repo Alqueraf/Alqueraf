@@ -5,7 +5,7 @@
 - 👨‍💻 With a strong focus on Quality, Scalability, Performance & UX
 - 👨‍🏫 **Teach** App Development
 - ✈️ **Travel** whenever I can
-- 💚 And love **Trekking** in the mountains
+- ⛵️ And **Sail** when the wind is fair
 
 ### ⭐️ Having achieved
 
