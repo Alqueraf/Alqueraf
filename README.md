@@ -9,7 +9,7 @@
 
 ### ⭐️ Having achieved
 
-| 40 | 1M | 15 | 31 |
+| 40 | 2M | 15 | 38 |
 | :-: | :-: | :-: | :-: |
 | Published Apps | Users Reached | Courses Taught | Countries Visited |
 
