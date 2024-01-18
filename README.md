@@ -35,6 +35,7 @@
 
 ### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Logging](https://medium.com/l-r-engineering/flutter-logging-4eef9e847fb2?source=rss-18ecf9ef4d5b------2)
 - [Craft CMS + AWS Cognito](https://medium.com/l-r-engineering/craft-cms-aws-cognito-f6010924ec23?source=rss-18ecf9ef4d5b------2)
 - [Launching Kotlin Coroutines in Android](https://medium.com/l-r-engineering/launching-kotlin-coroutines-in-android-coroutine-scope-context-800d280ebd80?source=rss-18ecf9ef4d5b------2)
 - [OAuth2 in Android — Authorization Code Flow](https://medium.com/l-r-engineering/oauth2-in-android-authorization-code-flow-ffc4355dd473?source=rss-18ecf9ef4d5b------2)
