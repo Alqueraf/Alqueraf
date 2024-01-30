@@ -19,18 +19,11 @@
 - 📱 Multiplatform [Flutter]
 - ⚙️ Automation [Github Actions CI + Fastlane CD]
 
-### 📱 Latest Projects
+<!-- To re-enable: -->
+<!-- Uncomment the header -->
+<!-- Uncomment the last step on `appstores.workflow.yml` -->
+<!-- ### 📱 Latest Projects -->
 <!-- APPSTORES-FEED:START -->
-<div style="display:grid; 
-            grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
-            max-width: 660px;">
-<a href="https://play.google.com/store/apps/details?id=lr.globalcitizen.com&hl=en&gl=us"><img src="./apps/lr.globalcitizen.com.svg"/></a>
-<a href="https://apps.apple.com/us/app/spireworks/id1372884614?uo=4"><img src="./apps/1372884614.svg"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.sandsmedia.apps.android.entwicklerkiosk&hl=en&gl=us"><img src="./apps/com.sandsmedia.apps.android.entwicklerkiosk.svg"/></a>
-<a href="https://apps.apple.com/us/app/global-citizen-take-action/id990655529?uo=4"><img src="./apps/990655529.svg"/></a>
-<a href="https://apps.apple.com/us/app/droplette-inc/id1535102177?uo=4"><img src="./apps/1535102177.svg"/></a>
-<a href="https://apps.apple.com/us/app/alexander-audio-books/id1529631224?uo=4"><img src="./apps/1529631224.svg"/></a>
-</div>
 <!-- APPSTORES-FEED:END -->
 
 ### 📕 Recent Blog Posts

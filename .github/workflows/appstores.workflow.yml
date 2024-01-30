@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: alqueraf/appstores-feed-action@master
-        with:
-          app_ids: "lr.globalcitizen.com, 1372884614, com.sandsmedia.apps.android.entwicklerkiosk, 990655529, 1535102177, 1529631224"
+      # - uses: alqueraf/appstores-feed-action@master
+      #   with:
+      #     app_ids: "lr.globalcitizen.com, 1372884614, com.sandsmedia.apps.android.entwicklerkiosk, 990655529, 1535102177, 1529631224"
