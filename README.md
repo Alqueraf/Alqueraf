@@ -48,11 +48,11 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/6740362371?utm_medium=api&utm_source=rss)
 - [La Gárgola](https://www.goodreads.com/review/show/1902538511?utm_medium=api&utm_source=rss)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5633230466?utm_medium=api&utm_source=rss)
 - [Sea of Tranquility](https://www.goodreads.com/review/show/5488114135?utm_medium=api&utm_source=rss)
 - [Dark Matter](https://www.goodreads.com/review/show/5356481756?utm_medium=api&utm_source=rss)
-- [The Old Man and the Sea](https://www.goodreads.com/review/show/5246905306?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
