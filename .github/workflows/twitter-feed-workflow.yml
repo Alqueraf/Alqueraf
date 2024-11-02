@@ -18,4 +18,6 @@ jobs:
           feed_list: "https://rss.app/feeds/QzWxE84qlPYSRyat.xml"
           max_post_count: 3
           item_exec: |
-            post.title = post.title.replace(/(?:\\r\\n|\\r|\\n)/g,' ');
+            post.title = post.title.replaceAll(/(?:\\r\\n|\\r|\\n)/g,' ');
+            post.title = post.title.replaceAll('\n',' ');
+            post.title = post.title.replaceAll('\r\n',' ');
