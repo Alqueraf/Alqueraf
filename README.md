@@ -1,11 +1,12 @@
-![banner](images/banner-cr.jpeg)
+<h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
+<p style="border-bottom: 0; padding-top:0px">Software Engineer & Educator</p>
 
 ### 🛠 I do
-- 📱 **Android** & **iOS** Apps
-- 👨‍💻 With a strong focus on Quality, Scalability, Performance & UX
-- 👨‍🏫 **Teach** App Development
-- ✈️ **Travel** whenever I can
-- ⛵️ And **Sail** when the wind is fair
+
+- 📱 **Mobile Development**: Crafting scalable and maintainable apps for Android and iOS.
+- 👨‍🏫 **Educator**: Passionate about teaching software engineering.
+- ✈️ **Traveler**: Always inspired by new destinations.
+- ⛵️ **Sailing Enthusiast**: Catching the wind.
 
 ### ⭐️ Having achieved
 
@@ -13,11 +14,11 @@
 | :-: | :-: | :-: | :-: |
 | Published Apps | Users Reached | Courses Taught | Countries Visited |
 
-### 💻 Tech Stack
+### 💻 Mobile Stack
 - 🤖 Android [Kotlin]
 - 🍎 iOS [Swift]
 - 📱 Multiplatform [Flutter]
-- ⚙️ Automation [Github Actions CI + Fastlane CD]
+- ⚙️ CI/CD [Fastlane + Github Actions]
 
 <!-- To re-enable: -->
 <!-- Uncomment the header -->
@@ -65,7 +66,7 @@
         <a href="https://open.spotify.com/user/alqueraf">View More</a>
 </p>
    
-### 👔 Insights on LinkedIn
+### 👔 LinkedIn Insights
 <!-- LINKEDIN:START -->
 - [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
 - [🚀 L+R and Meta just launched Media View at Meta Connect 2024!   This open-source spatial app allows users to experience all type...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
