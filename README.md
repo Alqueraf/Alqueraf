@@ -65,13 +65,18 @@
         <a href="https://open.spotify.com/user/alqueraf">View More</a>
 </p>
    
+### 👔 Insights on LinkedIn
+<!-- LINKEDIN:START -->
+<!-- LINKEDIN:END -->
+<p style="margin-top:-5px">
+        <a href="https://twitter.com/alqueraf">View More</a>
+</p>
+   
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
 - [@TechnovationCat: 📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://twitter.com/TechnovationCat/status/1605533949249331205)
 - [@avalancheavax: Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://twitter.com/avalancheavax/status/1478875863953428483)
 - [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://twitter.com/levinriegner/status/1468757791192059907)
-- [@avalancheavax: See you in Barcelona!](https://twitter.com/avalancheavax/status/1460684385825476611)
-- [@bibcanfabra: Els #Geeks del #ClubMaker escalfen motors per aquest nou any: tempesta d&#39;idees 🌩️per a la nova temporada🤯Tenim talent de sobra! 🤪I com cada any, ens sorprendran amb els seus ginys! 🧩Anirem informant!🧐 Comencem!💥 #AmericanSpaceBCN](https://twitter.com/bibcanfabra/status/1443176981571555333)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://twitter.com/alqueraf">View More</a>
@@ -79,23 +84,23 @@
 
 ### 💬 Stay in touch
 <p>
-        <a href="https://twitter.com/alqueraf" target="_blank"><img alt="Twitter"
-                        src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-        <a href="https://medium.com/@alqueraf" target="_blank"><img alt="Medium"
-                        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-        <a href="https://www.instagram.com/alqueraf" target="_blank"><img alt="Instagram"
-                        src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Email"
+                        src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
         <a href="https://www.linkedin.com/in/alexqueudot" target="_blank"><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://medium.com/@alqueraf" target="_blank"><img alt="Medium"
+                        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://twitter.com/alqueraf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+        <a href="https://www.instagram.com/alqueraf" target="_blank"><img alt="Instagram"
+                        src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="https://github.com/alqueraf" target="_blank"><img alt="GitHub"
                         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Email"
-                        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        
 </p>
 
 ---
 With ❤️ from Barcelona.
 
-*This site is auto-generated with GitHub Actions when new content is available*.
+*This website self-updates using GitHub Actions when new content is available*.
 
 <a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code</a>
