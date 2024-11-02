@@ -17,3 +17,5 @@ jobs:
           committer_email: twitter-tweets-bot@example.com
           feed_list: "https://rss.app/feeds/QzWxE84qlPYSRyat.xml"
           max_post_count: 3
+          item_exec: |
+            post.title = post.title.replace(/(?:\\r\\n|\\r|\\n)/g,' ');
