@@ -68,9 +68,7 @@
 ### 👔 Insights on LinkedIn
 <!-- LINKEDIN:START -->
 - [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
-- [🚀 L+R and Meta just launched Media View at Meta Connect 2024! 
-
-This open-source spatial app allows users to experience all type...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
+- [🚀 L+R and Meta just launched Media View at Meta Connect 2024!   This open-source spatial app allows users to experience all type...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
 - [Open call for beta testers! Introducing Askdot by L+R, a fine-tuned AI branded chatbot that L+R is building to answer business s...](https://www.linkedin.com/posts/open-call-for-beta-testers-introducing-askdot-activity-7165406203953545217-9vF7)
 <!-- LINKEDIN:END -->
 <p style="margin-top:-5px">
