@@ -19,3 +19,6 @@ jobs:
           max_post_count: 3
           item_exec: |
             post.title = post.title.replace(/(?:\\r\\n|\\r|\\n)/g,' ');
+            post.title = post.title.replace('\n',' ');
+            post.title = post.title.replace('\r\n',' ');
+            console.log("test\n world");
