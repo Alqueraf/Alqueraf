@@ -18,7 +18,4 @@ jobs:
           feed_list: "https://fetchrss.com/rss/67267c90d05f8cb6e00bdc6467267c82bb33446ff20b0273.xml"
           max_post_count: 3
           item_exec: |
-            post.title = post.title.replace(/(?:\\r\\n|\\r|\\n)/g,' ');
-            post.title = post.title.replace('\n',' ');
-            post.title = post.title.replace('\r\n',' ');
-            console.log("test\n world");
+            post.title = post.title.replaceAll(/(?:\\r\\n|\\r|\\n)/g,' ');
