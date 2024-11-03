@@ -1,3 +1,20 @@
 theme: jekyll-theme-primer
-title: Alex Queudot - Mobile Engineer & Educator
-description: Alex Queudot. Android & iOS Developer. Building beautiful experiences for mobile. Teaching App Development at University in Barcelona. World Traveller.
+title: Alex Queudot | Software Engineer & Educator
+tagline: Software Engineer | Android & iOS | Consultant | Tech Lead | Professor
+description: I am a Software Engineer with more than 10 years of experience in developing and leading software projects. I'm passionate about creating exceptional mobile experiences, scaling systems, and delivering reliable, high-quality applications.
+url: https://alexqueudot.com
+twitter:
+  username: alqueraf
+  card: summary
+logo: /images/aq-logo.png
+social:
+  links:
+    - https://www.linkedin.com/in/alexqueudot
+    - https://medium.com/@alqueraf
+    - https://twitter.com/alqueraf
+    - https://www.instagram.com/alqueraf
+    - https://github.com/alqueraf
+plugins:
+  - jekyll-seo-tag
+whitelist:
+  - jekyll-seo-tag

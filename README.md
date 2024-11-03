@@ -1,3 +1,5 @@
+---
+---
 <img src="images/mel.png" style="width:128px;height:128px"/>
 
 <h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
@@ -195,3 +197,8 @@ With ❤️ from Barcelona.
 *This website self-updates using GitHub Actions when new content is available*.
 
 <a href="https://github.com/Alqueraf/Alqueraf">Check the Source Code</a>
+
+<!-- Monitoring Links -->
+<!-- Performance: https://pagespeed.web.dev/ -->
+<!-- Analytics: https://analytics.google.com/analytics/web/#/p465778326 -->
+<!-- Search: https://search.google.com/search-console -->
