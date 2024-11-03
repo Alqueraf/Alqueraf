@@ -1,4 +1,4 @@
-<img src="images/mel.png" style="width:128px;height:128px" alt="My friendly dog: Mel Melada de Luperca"/>
+<img src="images/mel.webp" style="width:128px;height:128px" alt="My friendly dog: Mel Melada de Luperca"/>
 
 <h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
 <p style="border-bottom: 0; padding-top:0px">Software Engineer & Educator</p>
