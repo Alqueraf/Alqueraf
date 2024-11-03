@@ -13,3 +13,7 @@ social:
     - https://twitter.com/alqueraf
     - https://www.instagram.com/alqueraf
     - https://github.com/alqueraf
+plugins:
+  - jekyll-seo-tag
+whitelist:
+  - jekyll-seo-tag

@@ -1,5 +1,3 @@
----
----
 <img src="images/mel.png" style="width:128px;height:128px"/>
 
 <h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
@@ -123,7 +121,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 - [Migrating Retrofit to Ktor](https://medium.com/l-r-engineering/migrating-retrofit-to-ktor-93bdaf58d7d4?source=rss-18ecf9ef4d5b------2)
 <!-- BLOG-POST-LIST:END -->
 <p style="margin-top:-5px">
-        <a href="https://medium.com/@alqueraf">View More</a>
+        <a href="https://alqueraf.medium.com">Visit my blog on Medium</a>
 </p>
 
 ### ⚡️ What I've been up to
@@ -131,7 +129,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 <p><img width="250px" src="./images/instagram/0.jpeg" alt="#chile🇨🇱 /  #argentina🇦🇷 /  #patagonia  #quinfred  #menysmalqueeraestiu" style="padding-right:10px;padding-bottom:10px" /> <img width="250px" src="./images/instagram/1.jpeg" alt="You're gonna hear me  #roar.  #kenya  #asantesana" style="padding-right:10px;padding-bottom:10px" /> <img width="250px" src="./images/instagram/2.jpeg" alt="#fishyfishy" style="padding-right:10px;padding-bottom:10px" /> <img width="250px" src="./images/instagram/3.jpeg" alt="La Palma  #volcano" style="padding-right:10px;padding-bottom:10px" /> <img width="250px" src="./images/instagram/4.jpeg" alt="Team Athena  #greece  #milos  #santorini  #meteora  #delphi" style="padding-right:10px;padding-bottom:10px" /> <img width="250px" src="./images/instagram/5.jpeg" alt="In the jungle, the mighty jungle...  #costarica🇨🇷  #cahuita  #digitalnomad  #slothlife" style="padding-right:10px;padding-bottom:10px" /> </p>
 <!-- INSTAGRAM-FEED:END -->
 <p style="margin-top:-15px">
-        <a href="https://instagram.com/alqueraf">View More</a>
+        <a href="https://instagram.com/alqueraf">Check out my Instagram</a>
 </p>
 
 ### 📖 My Recent Reads
@@ -143,7 +141,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 - [The Old Man and the Sea](https://www.goodreads.com/review/show/5246905306?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
-        <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
+        <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View my library on Goodreads</a>
 </p>
 
 ### 🎧 Now Playing
@@ -151,7 +149,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 ![Spotify Now Playing](https://spotify-now-playing-alqueraf.vercel.app/api/spotify)
 
 <p style="margin-top:-25px">
-        <a href="https://open.spotify.com/user/alqueraf">View More</a>
+        <a href="https://open.spotify.com/user/alqueraf">Vibe with me on Spotify</a>
 </p>
 
 ### 👔 LinkedIn Insights
@@ -161,7 +159,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 - [Open call for beta testers! Introducing Askdot by L+R, a fine-tuned AI branded chatbot that L+R is building to answer business s...](https://www.linkedin.com/posts/open-call-for-beta-testers-introducing-askdot-activity-7165406203953545217-9vF7)
 <!-- LINKEDIN:END -->
 <p style="margin-top:-5px">
-        <a href="https://www.linkedin.com/in/alexqueudot/">View More</a>
+        <a href="https://www.linkedin.com/in/alexqueudot/">Let's connect on LinkedIn</a>
 </p>
 
 ### 🐦 What I'm tweeting about
@@ -171,7 +169,7 @@ Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">lo
 - [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://twitter.com/levinriegner/status/1468757791192059907)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
-        <a href="https://x.com/alqueraf">View More</a>
+        <a href="https://x.com/alqueraf">Follow me on Twitter</a>
 </p>
 
 ### 💬 Stay in touch
@@ -202,3 +200,10 @@ With ❤️ from Barcelona.
 <!-- Performance: https://pagespeed.web.dev/ -->
 <!-- Analytics: https://analytics.google.com/analytics/web/#/p465778326 -->
 <!-- Search: https://search.google.com/search-console -->
+
+<!-- Ideas -->
+<!-- GitHub Profile RSS: https://github.com/Alqueraf.atom -->
+
+<!-- Local development -->
+<!-- bundle install -->
+<!-- bundle exec jekyll serve -->

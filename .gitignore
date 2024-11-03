@@ -115,3 +115,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
