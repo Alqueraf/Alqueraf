@@ -16,51 +16,101 @@
 | :-: | :-: | :-: | :-: | :-: |
 | Published Apps | Users Reached | Courses Taught | Years of Experience | Countries Visited |
 
-### 💻 Mobile Stack
-- 🤖 Android [Kotlin]
-- 🍎 iOS [Swift]
-- 📱 Multiplatform [Flutter]
-- ⚙️ CI/CD [Fastlane + Github Actions]
+### 💻 Favorite Tech
 
+- 🤖 **Android**: Kotlin & Compose
+- 🍎 **iOS**: Swift & SwiftUI
+- 📱 **Multiplatform**: Flutter
+- ⚙️ **CI/CD**: Fastlane + Github Actions
+
+<!-- APPSTORES-FEED:START -->
+<!-- APPSTORES-FEED:END -->
 <!-- To re-enable: -->
 <!-- Uncomment the header -->
 <!-- Uncomment the last step on `appstores.workflow.yml` -->
+
 <!-- ### 📱 Latest Projects
+
 <table>
 <tr>
 <td style="width:140px; height:140px">
 <img width="140px" height="140px" src="images/logos/mediaview.png">
 </td>
 <td>
-<a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a>
-@Meta (w/ L+R)
-<br/>
-Android
-<br/>
-<a href="https://mediaviewxr.com">Learn More</a>
+<a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a> -  
+<b>Android</b> Spatial app to view media
+</td>
+<td>
+<a href="https://www.meta.com/">Meta</a> / <a href="https://levinriegner.com/news/media-view">L+R</a>
+</td>
+<td>
+Open Sourced as Best Practices for the new Meta Spatial SDK
 </td>
 </tr>
 
 <tr>
 <td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.png">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.svg">
 </td>
 <td>
-<a href="https://nidrarls.com">Nidra</a>
-@Noctrix Health
-<br/>
-iOS
-<br/>
-<a href="https://noctrixhealth.com">Learn More</a>
+<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a therapeutic device
 </td>
-</tr> -->
+<td>
+<a href="https://noctrixhealth.com">Noctrix Health</a>
+</td>
+<td>
+FDA approval and Breakthrough Device Designation
+</td>
+</tr>
 
-<!-- https://entwickler.de/ -->
-<!-- Spireworks -->
+<tr>
+<td style="width:140px; height:140px">
+<img width="100px" height="100px" style="padding-left: 20px"  src="images/logos/global-citizen.png">
+</td>
+<td>
+<a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">Global Citizen</a> -  
+<b>Flutter</b> Social app to end extreme poverty
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=qgOlg173gcI">Global Citizen</a> / <a href="https://levinriegner.com/work/global-citizen-take-action">L+R</a>
+</td>
+<td>
+Led 6 Engineers to reach 1M+ users taking action.
+</td>
+</tr>
 
-</table>
-<!-- APPSTORES-FEED:START -->
-<!-- APPSTORES-FEED:END -->
+<tr>
+<td style="width:140px; height:140px">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/entwickler.png">
+</td>
+<td>
+<a href="https://entwickler.de">Entwickler</a> -  
+<b>Android</b> EdTech platform for Software Engineers.
+</td>
+<td>
+<a href="https://sandsmedia.com/de/home">Software & Support Media</a>
+</td>
+<td>
+Taught 100k+ developers in Germany.
+</td>
+</tr>
+
+<tr>
+<td style="width:140px; height:140px">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/spireworks.jpeg">
+</td>
+<td>
+<a href="https://apps.apple.com/us/app/spireworks/id1372884614">Spireworks</a> -  
+<b>iOS</b> IoT app to control New York's skyscrapers
+</td>
+<td>
+<a href="https://www.durst.org">The Durst Organization</a> / <a href="https://levinriegner.com/work/spireworks-app">L+R</a>
+</td>
+<td>
+Featured in Fox News and <a href="https://www.youtube.com/shorts/1UeSccgGkCc">loved by the community</a>.
+</td>
+</tr>
+</table> -->
 
 ### 📕 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -95,12 +145,13 @@ iOS
 </p>
 
 ### 🎧 Now Playing
+
 ![Spotify Now Playing](https://spotify-now-playing-alqueraf.vercel.app/api/spotify)
 
 <p style="margin-top:-25px">
         <a href="https://open.spotify.com/user/alqueraf">View More</a>
 </p>
-   
+
 ### 👔 LinkedIn Insights
 <!-- LINKEDIN:START -->
 - [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
@@ -110,7 +161,7 @@ iOS
 <p style="margin-top:-5px">
         <a href="https://www.linkedin.com/in/alexqueudot/">View More</a>
 </p>
-   
+
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
 - [@TechnovationCat: 📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://twitter.com/TechnovationCat/status/1605533949249331205)
@@ -122,6 +173,7 @@ iOS
 </p>
 
 ### 💬 Stay in touch
+
 <p>
         <a href="mailto:alqueraf@gmail.com" target="_blank"><img alt="Email"
                         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
@@ -134,7 +186,7 @@ iOS
                         src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="https://github.com/alqueraf" target="_blank"><img alt="GitHub"
                         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        
+
 </p>
 
 ---
