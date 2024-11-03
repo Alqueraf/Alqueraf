@@ -5,16 +5,16 @@
 
 ### 🛠 I do
 
-- 📱 **Mobile Development**: Crafting scalable and maintainable apps for Android and iOS.
+- 📱 **Mobile Development**: Crafting scalable and maintainable apps for **Android** and **iOS**.
 - 👨‍🏫 **Educator**: Passionate about teaching software engineering.
 - ✈️ **Traveler**: Always inspired by new destinations.
 - ⛵️ **Sailing Enthusiast**: Catching the wind.
 
 ### ⭐️ Having achieved
 
-| 40 | 2M | 15 | 38 |
-| :-: | :-: | :-: | :-: |
-| Published Apps | Users Reached | Courses Taught | Countries Visited |
+| 40 | 2M | 15 | 13 | 38 |
+| :-: | :-: | :-: | :-: | :-: |
+| Published Apps | Users Reached | Courses Taught | Years of Experience | Countries Visited |
 
 ### 💻 Mobile Stack
 - 🤖 Android [Kotlin]
@@ -25,7 +25,40 @@
 <!-- To re-enable: -->
 <!-- Uncomment the header -->
 <!-- Uncomment the last step on `appstores.workflow.yml` -->
-<!-- ### 📱 Latest Projects -->
+<!-- ### 📱 Latest Projects
+<table>
+<tr>
+<td style="width:140px; height:140px">
+<img width="140px" height="140px" src="images/logos/mediaview.png">
+</td>
+<td>
+<a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a>
+@Meta (w/ L+R)
+<br/>
+Android
+<br/>
+<a href="https://mediaviewxr.com">Learn More</a>
+</td>
+</tr>
+
+<tr>
+<td style="width:140px; height:140px">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.png">
+</td>
+<td>
+<a href="https://nidrarls.com">Nidra</a>
+@Noctrix Health
+<br/>
+iOS
+<br/>
+<a href="https://noctrixhealth.com">Learn More</a>
+</td>
+</tr> -->
+
+<!-- https://entwickler.de/ -->
+<!-- Spireworks -->
+
+</table>
 <!-- APPSTORES-FEED:START -->
 <!-- APPSTORES-FEED:END -->
 
@@ -51,11 +84,6 @@
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
-- [Leyendas anotadas de la Dragonlance](https://www.goodreads.com/review/show/1902551836?utm_medium=api&utm_source=rss)
-- [La conspiración](https://www.goodreads.com/review/show/1902556606?utm_medium=api&utm_source=rss)
-- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/6740362371?utm_medium=api&utm_source=rss)
-- [La gárgola](https://www.goodreads.com/review/show/1902538511?utm_medium=api&utm_source=rss)
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5633230466?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
@@ -85,7 +113,7 @@
 - [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://twitter.com/levinriegner/status/1468757791192059907)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
-        <a href="https://twitter.com/alqueraf">View More</a>
+        <a href="https://x.com/alqueraf">View More</a>
 </p>
 
 ### 💬 Stay in touch
