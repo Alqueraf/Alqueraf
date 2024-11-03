@@ -84,6 +84,11 @@ iOS
 
 ### 📖 My Recent Reads
 <!-- GOODREADS:START -->
+- [Leyendas anotadas de la Dragonlance](https://www.goodreads.com/review/show/1902551836?utm_medium=api&utm_source=rss)
+- [La conspiración](https://www.goodreads.com/review/show/1902556606?utm_medium=api&utm_source=rss)
+- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/6740362371?utm_medium=api&utm_source=rss)
+- [La gárgola](https://www.goodreads.com/review/show/1902538511?utm_medium=api&utm_source=rss)
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5633230466?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 <p style="margin-top:-5px">
         <a href="https://www.goodreads.com/user/show/40277231-alex-queudot">View More</a>
