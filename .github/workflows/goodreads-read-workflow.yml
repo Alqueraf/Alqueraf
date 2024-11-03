@@ -15,5 +15,6 @@ jobs:
           commit_message: "Updated readme with the latest goodreads data"
           committer_username: goodreads-read-bot
           committer_email: goodreads-read-bot@example.com
-          feed_list: "https://www.goodreads.com/review/list_rss/40277231?shelf=read&sort=date_added&order=d"
+          # feed_list: "https://www.goodreads.com/review/list_rss/40277231?shelf=read&sort=date_added&order=d"
+          feed_list: "https://fetchrss.com/rss/67267c90d05f8cb6e00bdc6467273f73403259704d029f82.xml"
           max_post_count: 5
