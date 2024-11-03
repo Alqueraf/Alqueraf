@@ -1,4 +1,4 @@
-<img src="images/mel.png" style="width:128px;height:128px"/>
+<img src="images/mel.png" style="width:128px;height:128px" alt="My friendly dog: Mel Melada de Luperca"/>
 
 <h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
 <p style="border-bottom: 0; padding-top:0px">Software Engineer & Educator</p>
@@ -34,7 +34,7 @@
 <table>
 <tr>
 <td style="width:140px; height:140px">
-<img width="140px" height="140px" src="images/logos/mediaview.png">
+<img width="140px" height="140px" src="images/logos/mediaview.png" alt="Media View logo">
 </td>
 <td>
 <a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a> -  
@@ -50,7 +50,7 @@ Open Sourced as Best Practices for the new Meta Spatial SDK
 
 <tr>
 <td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.svg">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
 </td>
 <td>
 <a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a therapeutic device
@@ -65,7 +65,7 @@ FDA approval and Breakthrough Device Designation
 
 <tr>
 <td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px"  src="images/logos/global-citizen.png">
+<img width="100px" height="100px" style="padding-left: 20px"  src="images/logos/global-citizen.png" alt="Global Citizen logo">
 </td>
 <td>
 <a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">Global Citizen</a> -  
@@ -81,7 +81,7 @@ Led 6 Engineers to reach 1M+ users taking action.
 
 <tr>
 <td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/entwickler.png">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/entwickler.png" alt="Entwickler.de logo">
 </td>
 <td>
 <a href="https://entwickler.de">Entwickler</a> -  
@@ -97,7 +97,7 @@ Taught 100k+ developers in Germany.
 
 <tr>
 <td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/spireworks.jpeg">
+<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/spireworks.jpeg" alt="Spireworks logo">
 </td>
 <td>
 <a href="https://apps.apple.com/us/app/spireworks/id1372884614">Spireworks</a> -  
