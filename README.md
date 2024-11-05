@@ -33,8 +33,8 @@
 
 <table>
 <tr>
-<td style="width:140px; height:140px">
-<img width="140px" height="140px" src="images/logos/mediaview.png" alt="Media View logo">
+<td style="width:140px; height=140px;">
+<img width="140px" height="140px" src="images/logos/mediaview.webp" alt="Media View logo">
 </td>
 <td>
 <a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a> -  
@@ -49,8 +49,8 @@ Open Sourced as Best Practices for the new Meta Spatial SDK
 </tr>
 
 <tr>
-<td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
+<td style="width:140px; height=140px;">
+<img width="140px" height="140px" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
 </td>
 <td>
 <a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a medical device
@@ -64,8 +64,8 @@ FDA approval and Breakthrough Device Designation
 </tr>
 
 <tr>
-<td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px"  src="images/logos/global-citizen.png" alt="Global Citizen logo">
+<td style="width:140px; height=140px;">
+<img width="140px" height="140px" src="images/logos/global-citizen.png" alt="Global Citizen logo">
 </td>
 <td>
 <a href="https://www.youtube.com/watch?v=qgOlg173gcI">Global Citizen</a> - <b>Flutter</b> Social app to end extreme poverty
@@ -79,8 +79,8 @@ Led 6 Engineers to reach 1M+ users taking action
 </tr>
 
 <tr>
-<td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/entwickler.png" alt="Entwickler.de logo">
+<td style="width:140px; height=140px;">
+<img width="140px" height="140px"  src="images/logos/entwickler.png" alt="Entwickler.de logo">
 </td>
 <td>
 <a href="https://entwickler.de">Entwickler</a> -  
@@ -95,8 +95,8 @@ Taught 100k+ developers in Germany
 </tr>
 
 <tr>
-<td style="width:140px; height:140px">
-<img width="100px" height="100px" style="padding-left: 20px" src="images/logos/spireworks.jpeg" alt="Spireworks logo">
+<td style="width:140px; height=140px;">
+<img width="140px" height="140px" src="images/logos/spireworks.jpeg" alt="Spireworks logo">
 </td>
 <td>
 <a href="https://www.youtube.com/shorts/wQXC6u9aSdc">Spireworks</a> -  
