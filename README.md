@@ -53,7 +53,7 @@ Open Sourced as Best Practices for the new Meta Spatial SDK
 <img width="140px" height="140px" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
 </td>
 <td>
-<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a medical device
+<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for the medical device
 </td>
 <td>
 <a href="https://noctrixhealth.com">Noctrix Health</a>
@@ -74,7 +74,7 @@ FDA approval and Breakthrough Device Designation
 <a href="https://www.globalcitizen.org/en/impact">Global Citizen</a> / <a href="https://levinriegner.com/work/global-citizen-take-action">L+R</a>
 </td>
 <td>
-Led 6 Engineers to reach 1M+ users taking action
+Led 6 Software Engineers to reach 1M+ users taking action
 </td>
 </tr>
 
@@ -106,7 +106,7 @@ Taught 100k+ developers in Germany
 <a href="https://www.durst.org">The Durst Organization</a> / <a href="https://levinriegner.com/work/spireworks-app">L+R</a>
 </td>
 <td>
-A city scale real-time interactive art experience</a>
+A city scale real-time interactive art experience
 </td>
 </tr>
 </table>
