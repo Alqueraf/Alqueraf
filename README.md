@@ -1,5 +1,3 @@
-<img src="images/mel.webp" style="width:128px;height:128px" alt="My friendly dog: Mel Melada de Luperca"/>
-
 <h1 style="border-bottom: 0; padding-bottom:0px; line-height:0.5">Alex Queudot</h1>
 <p style="border-bottom: 0; padding-top:0px">Software Engineer & Educator</p>
 
@@ -160,6 +158,13 @@ A city scale real-time interactive art experience
 <p style="margin-top:-5px">
         <a href="https://www.linkedin.com/in/alexqueudot/">Let's connect on LinkedIn</a>
 </p>
+
+### 🐶 My Furry Copilot
+
+<figure>
+<img src="images/mel.webp" style="width:128px;height:128px" alt="My friendly dog: Mel Melada de Luperca"/>
+<figcaption  style="text-align:center; width: 128px;">Mel Melada</figcaption>
+</figure>
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
