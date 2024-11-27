@@ -151,9 +151,9 @@ A city scale real-time interactive art experience
 
 ### 👔 LinkedIn Insights
 <!-- LINKEDIN:START -->
+- [We are excited to announce that Galen Data has officially joined the LAUXERA CAPITAL PARTNERS family!   As a leader in secure, c...](https://www.linkedin.com/posts/galen-data_acquisition-medicaltechnology-galendata-activity-7266843141775745024-3Iqy)
 - [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
 - [🚀 L+R and Meta just launched Media View at Meta Connect 2024!   This open-source spatial app allows users to experience all type...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
-- [Open call for beta testers! Introducing Askdot by L+R, a fine-tuned AI branded chatbot that L+R is building to answer business s...](https://www.linkedin.com/posts/open-call-for-beta-testers-introducing-askdot-activity-7165406203953545217-9vF7)
 <!-- LINKEDIN:END -->
 <p style="margin-top:-5px">
         <a href="https://www.linkedin.com/in/alexqueudot/">Let's connect on LinkedIn</a>
