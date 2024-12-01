@@ -151,9 +151,9 @@ A city scale real-time interactive art experience
 
 ### 👔 LinkedIn Insights
 <!-- LINKEDIN:START -->
+- [✨ Cerrando 2024 con Flutter: Beyond Mobile  Ayer asistí al último meetup de Flutter del año, titulado Beyond Mobile, en Talent G...](https://es.linkedin.com/posts/marc-mg_flutter-beyondmobile-networking-activity-7267807912406777856-VjfX)
 - [We are excited to announce that Galen Data has officially joined the LAUXERA CAPITAL PARTNERS family!   As a leader in secure, c...](https://www.linkedin.com/posts/galen-data_acquisition-medicaltechnology-galendata-activity-7266843141775745024-3Iqy)
 - [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
-- [🚀 L+R and Meta just launched Media View at Meta Connect 2024!   This open-source spatial app allows users to experience all type...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
 <!-- LINKEDIN:END -->
 <p style="margin-top:-5px">
         <a href="https://www.linkedin.com/in/alexqueudot/">Let's connect on LinkedIn</a>
