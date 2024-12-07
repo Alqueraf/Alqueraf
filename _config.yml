@@ -1,10 +1,14 @@
 theme: jekyll-theme-primer
-title: Alex Queudot - Software Engineer & Educator
-description: Software Engineer, Android & iOS, Consultant, Tech Lead, Professor. I'm passionate about creating exceptional mobile experiences, scaling systems, and delivering reliable, high-quality applications.
+title: Alex Queudot - Software Engineer | Android, iOS, Flutter
+description: I'm passionate about crafting exceptional mobile experiences, scaling systems, and delivering reliable, high-quality applications.
 twitter:
   username: alqueraf
   card: summary
 logo: /images/aq-logo.png
+image:
+  path: /images/phone-logo.png
+  width: 96
+  height: 96
 social:
   links:
     - https://www.linkedin.com/in/alexqueudot
