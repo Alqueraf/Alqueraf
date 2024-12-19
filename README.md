@@ -42,7 +42,7 @@
 <a href="https://www.meta.com/">Meta</a> / <a href="https://levinriegner.com/news/media-view">L+R</a>
 </td>
 <td>
-Open Sourced as Best Practices for the new Meta Spatial SDK
+Open Sourced by Meta as Best Practices for the new Spatial SDK
 </td>
 </tr>
 
@@ -51,13 +51,13 @@ Open Sourced as Best Practices for the new Meta Spatial SDK
 <img width="140px" height="140px" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
 </td>
 <td>
-<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for the medical device
+<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a medical therapy device
 </td>
 <td>
 <a href="https://noctrixhealth.com">Noctrix Health</a>
 </td>
 <td>
-FDA approval and Breakthrough Device Designation
+Approved by the FDA with Breakthrough Device Designation and HIPAA compliance.
 </td>
 </tr>
 
