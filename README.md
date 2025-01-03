@@ -36,13 +36,13 @@
 </td>
 <td>
 <a href="https://github.com/meta-quest/Meta-Spatial-SDK-Samples/tree/main/Showcases/media_view">MediaView</a> -  
-<b>Android</b> Spatial app to view media
+<b>Android</b> XR Spatial app to view media
 </td>
 <td>
 <a href="https://www.meta.com/">Meta</a> / <a href="https://levinriegner.com/news/media-view">L+R</a>
 </td>
 <td>
-Open Sourced by Meta as Best Practices for the new Spatial SDK
+Open Sourced by Meta as best practices for the new Meta Spatial SDK
 </td>
 </tr>
 
@@ -51,13 +51,13 @@ Open Sourced by Meta as Best Practices for the new Spatial SDK
 <img width="140px" height="auto" src="images/logos/noctrix.svg" alt="Noctrix Health logo">
 </td>
 <td>
-<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> HealthTech app for a medical therapy device
+<a href="https://nidrarls.com">Nidra</a> - <b>iOS</b> Healthcare BLE app for a medical therapy device
 </td>
 <td>
 <a href="https://noctrixhealth.com">Noctrix Health</a>
 </td>
 <td>
-Approved by the FDA with Breakthrough Device Designation and HIPAA compliance.
+Approved by the FDA with HIPAA compliance and Breakthrough Device Designation
 </td>
 </tr>
 
