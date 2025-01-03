@@ -15,6 +15,7 @@ jobs:
           commit_message: "Updated readme with the latest linkedin activity"
           committer_username: linkedin-activity-bot
           committer_email: linkedin-activity-bot@example.com
+          # https://www.linkedin.com/in/alexqueudot
           feed_list: "https://fetchrss.com/rss/67267c90d05f8cb6e00bdc6467267c82bb33446ff20b0273.xml"
           max_post_count: 3
           item_exec: |
