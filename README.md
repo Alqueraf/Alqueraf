@@ -168,9 +168,9 @@ A city scale real-time interactive art experience
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
-- [@TechnovationCat: 📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://x.com/TechnovationCat/status/1605533949249331205)
-- [@avalancheavax: Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://x.com/avalancheavax/status/1478875863953428483)
-- [@levinriegner: L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://x.com/levinriegner/status/1468757791192059907)
+- [📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://x.com/TechnovationCat/status/1605533949249331205)
+- [Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://x.com/avalancheavax/status/1478875863953428483)
+- [L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://x.com/levinriegner/status/1468757791192059907)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://x.com/alqueraf">Follow me on Twitter</a>
