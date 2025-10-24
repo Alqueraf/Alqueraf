@@ -168,9 +168,9 @@ A city scale real-time interactive art experience
 
 ### 🐦 What I'm tweeting about
 <!-- TWITTER:START -->
-- [📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://x.com/TechnovationCat/status/1605533949249331205)
-- [Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://x.com/avalancheavax/status/1478875863953428483)
-- [L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://x.com/levinriegner/status/1468757791192059907)
+- [📢 Recordatori: Es busquen #TechnovationGirls amb ganes de gaudir de la #tecnologia mentre canviem el món. 🚀 Apunta&#39;t ja, que estem a punt d&#39;enlairar-nos!👉  @ciberespiral #Tecnologia #educació #Girls4Change #TechnovationCAT #TechnovationChallenge](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299818e08161e2e093ea6e8cdeca41b91c974d3e30bb04f76d9d868f6a7697ed610069164dc6be2c3107b11)
+- [Avalanche Summit will take Barcelona by storm at the Poble Espanyol from March 22 to 27, 2022.Register to stay up-to-date with the latest–ticket sales, agenda, speakers, and more!](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b49d0a12112f1c37b7e0d4e39f55969266d3f70cea0d6ddfd660f4a7627bdc1d0a9064d760e5ca11)
+- [L+R and five of its forward-thinking projects have earned the 2021 w3 Awards in 14 major categories.](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b98e1d171e33163ab5efc7f0c809918773d2f150f4086fd0d96df4a5637cde1d0d9365dc61e1c5)
 <!-- TWITTER:END -->
 <p style="margin-top:-5px">
         <a href="https://x.com/alqueraf">Follow me on Twitter</a>
