@@ -151,9 +151,9 @@ A city scale real-time interactive art experience
 
 ### 👔 LinkedIn Insights
 <!-- LINKEDIN:START -->
-- [🎉 What a fantastic start to 2025 with Flutter Barcelona #FlutterInProduction event! We had an amazing time learning about the in...](https://www.linkedin.com/posts/alexqueudot_flutterinproduction-flutter-barcelona-activity-7287136769978830848-c3VH)
-- [I had the pleasure of speaking at #MetaConnect2024 on a panel with brilliant engineers Michael Borke, Ana Ines Pereyra, and Spen...](https://www.linkedin.com/posts/alexqueudot_metaconnect2024-activity-7246526747700023296--XSH)
-- [🚀 L+R and Meta just launched Media View at Meta Connect 2024! This open-source spatial app allows users to experience all types ...](https://www.linkedin.com/posts/l-r_lr-and-meta-release-media-view-an-open-source-activity-7244809698305097728-ASGL)
+- [Alex Queudot](https://es.linkedin.com/in/alexqueudot)
+- [L+R](https://www.linkedin.com/posts/alexqueudot_this-honor-is-a-representation-of-the-real-activity-6620240078541205504-eOp6)
+- [L+R](https://www.linkedin.com/company/l-r)
 <!-- LINKEDIN:END -->
 <p style="margin-top:-5px">
         <a href="https://www.linkedin.com/in/alexqueudot/">Let's connect on LinkedIn</a>
